@@ -11,7 +11,7 @@
 
 <p align="center">
 I build performant, production-grade user experiences for modern web and Web3 applications.  
-Currently shipping scalable frontend systems across Solana, EVM, and Radix — with real users, real transactions, and real impact.
+Currently shipping scalable frontend systems across Solana, EVM, and Radix with real users, real transactions, and real impact.
 </p>
 
 ---
@@ -111,15 +111,7 @@ Developer utilities for Radix DLT (validators, staking, helpers).
 ## 📊 GitHub Stats (Clean & Aesthetic)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulhaseeb13mar&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhaseeb13mar&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhaseeb13mar&layout=compact&theme=tokyonight" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abdulhaseeb13mar" alt="GitHub Streak" /></a>
 </p>
 
 ---
