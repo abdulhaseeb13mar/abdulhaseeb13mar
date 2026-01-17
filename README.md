@@ -1,8 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" />
-</p>
-
 <h1 align="center">Hi, I'm Abdul Haseeb 👋</h1>
 
 <h3 align="center">
