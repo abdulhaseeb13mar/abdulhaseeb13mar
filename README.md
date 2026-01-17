@@ -106,14 +106,6 @@ Developer utilities for Radix DLT (validators, staking, helpers).
 
 👉 https://medium.com/@abdulhaseeb13mar
 
----
-
-## 📊 GitHub Stats (Clean & Aesthetic)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abdulhaseeb13mar)](https://git.io/streak-stats)
-
----
-
 ## 🎯 What I care about
 
 - Performance-first frontend  
